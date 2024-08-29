@@ -1,0 +1,15 @@
+*.class
+*.log
+*.iml
+*.project
+*.settings
+target/
+build/
+*~
+.vscode/
+.gradle/
+build.gradle
+settings.gradle
+gradle-wrapper.jar
+gradlew
+gradlew.bat
