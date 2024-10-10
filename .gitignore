@@ -13,3 +13,4 @@ settings.gradle
 gradle-wrapper.jar
 gradlew
 gradlew.bat
+/.idea
