@@ -1,2 +1,2 @@
 # java
- Java-ohjelmointi IN00CT05-3007
+Java programming IN00CT05-3007
